@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;  
+  box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+a:visited{
+ color:#FFFFFF
+}
+
+.footer{
+    background-color: #ff0000ec;
+    margin-top: 1150px;
+}
+.caixa_texto{
+    width: 353px;
+    height: 40px;
+    margin-left: -3px;
+    color: grey;
+    font-family: 'Raleway', sans-serif;
+}
+.caixa_texto2{
+    width: 353px;
+    height: 60px;
+    margin-left: -3px;
+    color: grey;
+    font-family: 'Raleway', sans-serif;
+}
+.enviar
+{
+    width: 79px;
+    height: 70px;
+    background: #0000002a;
+    border-radius: 20px ;
+    border: black;
+}

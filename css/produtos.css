@@ -1,0 +1,27 @@
+.produtos{
+    grid-column: 1/13;
+    padding: 20px 20px;
+    justify-content: center;
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.25);
+}
+.ofertas__titulo{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    padding-bottom: 10px;
+}
+.produto1 {
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.25);
+    border: 1px solid black;
+    padding: 0px 10px;
+    width: 154px;
+    height: 244px;
+}
+.produto2{
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.25);
+    border: 1px solid black;
+    padding: 0px 10px;
+    width: 154px;
+    height: 244px;
+}
+

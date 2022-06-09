@@ -1,0 +1,40 @@
+.banner{
+    grid-column: 1/13;
+    /* width: 100%; */
+}
+.banner__imagem1{
+    /* width: 100%; */
+    display: block;
+    /*tirar duvida com o prof sobre o cod acima*/
+}
+.banner, .banner__imagem1
+{
+    width: 100%;
+}
+.banner__descricao{
+    background-color: #FF2206;
+    color:#E5E5E5;
+}
+.banner__descricao2{
+    background-color: #E5E5E5;
+    color:#FF2206;
+}
+.banner__descricao, .banner__descricao2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+.banner__descricao:nth-child(3){
+    background-color: #FF2206;
+    color:#E5E5E5;
+}
+
+.banner__descricao > p{
+    padding: 2px;
+}
